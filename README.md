@@ -1,5 +1,6 @@
 
 ## A PROPOS
 
-UN BLOG CONTENANT MA VEILLE TECHNOLOGIQUE SUR LA BLOCKCHAIN (https://mohamedamine92.github.io/)
+UN BLOG CONTENANT MA VEILLE TECHNOLOGIQUE SUR L'IoT création de valeur & applications
+Eleve ingénieur : BENHAMEDhttps://www.linkedin.com/in/chamseddinebenhamed/
 
